@@ -1,6 +1,28 @@
-# <Título do projeto>
+# Análise e predição do preço de diamantes de acordo com os Quatro C's.
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+## Objetivos
+Este projeto tem como objetivo realizar uma análise de diamantes, fazendo uma correlação estre os Quatro C's, atributos importantes para avaliação de qualidade de diamantes, e seu preço final.
+
+## Atributos Analisados
+- **Carat:** Peso do diamante, uma Carat equivale à 0,2 gramas.
+- **Cut:** Refere-se ao corte do diamante, impactando no seu visual.
+- **Color:** Coloração do diamante, variando de D (incolor) a Z (tons amarelados).
+- **Clarity:** Clareza do diamante, indicando a sua translucência ou opacidade.
+- **Depth:** Altura da pedra, indo do Culet (parte inferior) até o Table (parte superior).
+- **Table:** Indica a superfície plana do diamante, seu corte superior.
+- **Price:** Preço do diamante, variável dependente a ser prevista.
+- **X, Y, Z:** Dimensões do diamante num eixo, utilizadas para determinar seu volume e peso.
+
+## Metodologia
+1. **Coleta de Dados** 
+2. **Análise Exploratória de dados** 
+3. **Pré-processamento de dados** 
+4. **Modelagem** 
+5. **Interpretação**
+
+## Resultados Esperados
+- Um modelo capaz de prever o preço de diamantes com base em seus atributos.
+- Proporcionair insights sobre quais atributos têm maior impacto no preço, auxiliando na tomada de decisões para compra e venda.
 
 ## Desenvolvedores
  - [Nome do desenvolvedor #1](url-do-github-do-desenvolvedor-#1)
