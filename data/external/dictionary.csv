@@ -1,10 +1,10 @@
 nome_variavel,descricao,tipo,subtipo
 Carat,Peso do diamante em carats.,quantitativa,contínua
-Cut,Qualidade do corte do diamante.,qualitativa,discreta
-Color,"Cor do diamante, de D a Z.",qualitativa,discreta
-Clarity,Transparência do diamante.,qualitativa,discreta
+Cut,Qualidade do corte do diamante.,qualitativa,ordinal
+Color,"Cor do diamante, de D a Z.",qualitativa,nominal
+Clarity,Transparência do diamante.,qualitativa,ordinal
 Depth,Altura do diamante.,quantitativa,contínua
-Table,Superfície plana do diamante.,quantitativa,contínua
+Table,Superfície plana do diamante.,quantitativa,discreta
 Price,Preço do diamante.,quantitativa,contínua
 X,Dimensão do diamante no eixo X.,quantitativa,contínua
 Y,Dimensão do diamante no eixo Y.,quantitativa,contínua
