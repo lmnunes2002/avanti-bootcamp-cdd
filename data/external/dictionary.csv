@@ -6,6 +6,6 @@ Clarity,Transparência do diamante.,qualitativa,ordinal
 Depth,Altura do diamante.,quantitativa,contínua
 Table,Superfície plana do diamante.,quantitativa,discreta
 Price,Preço do diamante.,quantitativa,contínua
-X,Dimensão do diamante no eixo X.,quantitativa,contínua
-Y,Dimensão do diamante no eixo Y.,quantitativa,contínua
-Z,Dimensão do diamante no eixo Z.,quantitativa,contínua
+X,Comprimento do diamante no eixo X.,quantitativa,contínua
+Y,Largura do diamante no eixo Y.,quantitativa,contínua
+Z,Altura do diamante no eixo Z.,quantitativa,contínua
